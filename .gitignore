@@ -4,7 +4,6 @@
 dist
 node_modules
 storage
-output
 
 # Python venv
 venv
